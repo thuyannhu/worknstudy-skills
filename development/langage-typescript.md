@@ -9,7 +9,7 @@
 - l'intéret de TypeScript dans l'IDE ✔️
 - les types de bases ✔️
 - comment et pourquoi étendre une interface ✔️
-- les classes et les decorators ❌ / ✔️
+- les classes et les decorators ❌ 
 
 ## 💻 J'utilise
 
