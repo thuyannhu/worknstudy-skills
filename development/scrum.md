@@ -13,13 +13,13 @@
   - Retro
   - Grooming
   - Poker planning
-- Expliquer les différents roles ❌ / ✔️
+- Expliquer les différents roles ✔️
   - SCRUM master
   - Product Owner
   - Stakeholder
-- Comment rédiger une User Story complète ? ❌ / ✔️
-- Qu'est-ce qu'un Product Backlog ? ❌ / ✔️
-- Qu'est ce qu'un Sprint ? Quel est l'intérêt ? ❌ / ✔️
+- Comment rédiger une User Story complète ? ✔️
+- Qu'est-ce qu'un Product Backlog ?  ✔️
+- Qu'est ce qu'un Sprint ? Quel est l'intérêt ?  ✔️
 - A quoi sert le Burndown Chart ? ❌ / ✔️
 - Quelles sont les 2 unités de complexité ? ❌ / ✔️
 - Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ❌ / ✔️
